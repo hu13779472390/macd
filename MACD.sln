@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MACD", "MACD\MACD.csproj", "{4EAA2110-54E8-414E-94AC-68DDD8F18897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advisor", "Advisor\Advisor.csproj", "{4E4A9CAD-1340-4731-A534-4D7370AD85F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EAA2110-54E8-414E-94AC-68DDD8F18897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAA2110-54E8-414E-94AC-68DDD8F18897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAA2110-54E8-414E-94AC-68DDD8F18897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAA2110-54E8-414E-94AC-68DDD8F18897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4A9CAD-1340-4731-A534-4D7370AD85F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4A9CAD-1340-4731-A534-4D7370AD85F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4A9CAD-1340-4731-A534-4D7370AD85F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4A9CAD-1340-4731-A534-4D7370AD85F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
